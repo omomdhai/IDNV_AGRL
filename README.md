@@ -5,14 +5,14 @@ This repository contains a mobile application for indoor navigation using augmen
 ## Features
 - **Augmented Reality Navigation**: Provides real-time indoor navigation using AR.
 - **SLAM Integration**: Ensures accurate positioning and mapping.
-- **A* Algorithm**: Computes the shortest path for efficient navigation.
+- **A-Star** **Algorithm**: Computes the shortest path for efficient navigation.
 - **QR Code Repositioning**: Enhances positioning accuracy using QR codes.
 - **Cross-Platform**: Developed for Unity3D, Android Studio, and Xcode.
 
 ## Technologies Used
 - **ARCore**: Google's platform for building AR applications.
 - **SLAM**: Technique for mapping and localization.
-- **A* Algorithm**: Pathfinding and graph traversal algorithm.
+- **A-Star Algorithm**: Pathfinding and graph traversal algorithm.
 - **Unity3D**: A cross-platform game engine for creating 3D, 2D, VR, and AR experiences.
 - **Android Studio**: The official IDE for Android development.
 - **Xcode**: Apple's IDE for macOS and iOS development.
